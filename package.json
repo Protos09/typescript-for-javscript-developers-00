@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Protos09/typescript-for-javscript-developers-00/issues"
   },
-  "homepage": "https://github.com/Protos09/typescript-for-javscript-developers-00#readme"
+  "homepage": "https://github.com/Protos09/typescript-for-javscript-developers-00#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
